@@ -4,8 +4,8 @@ import ssl
 import smtplib
 from email.message import EmailMessage
 
-email_address = "dardavy.26@gmail.com"
-email_password = "sxjmhdkhpsbfjoys"
+email_address = "***************"
+email_password = "**************"
 recipient_list = ["aqinnaqin@yahoo.com", "mosesoleka@gmail.com","akinfracis74@gmail.com","umaruadama@gmail.com"]
 
 Email_msg = EmailMessage()
