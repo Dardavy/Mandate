@@ -1,19 +1,5 @@
 
-
-
-
-
-
-
-
-
-      
-                  
-
-
-
-                
-import time
+import time                
 import schedule
 
 initial_balance = float(input("Enter your initial balance: "))
@@ -35,6 +21,19 @@ while True:
     schedule.run_pending()
     time.sleep(1)
               
+
+
+
+
+
+
+
+      
+                  
+
+
+
+
                 
                 
                 
